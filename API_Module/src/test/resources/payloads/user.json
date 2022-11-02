@@ -1,0 +1,9 @@
+{
+  "firstName": "Ecloud1",
+  "lastName": "Testing",
+  "mobilePhone": "(767) 676-7676",
+  "email": "ecloud@gmail.com",
+  "roleID": 3,
+  "managerID": null,
+  "contractorID": null
+}
